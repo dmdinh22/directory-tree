@@ -1,0 +1,14 @@
+{
+  "name": "endpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "directories.js",
+  "scripts": {
+    "start": "node directories.js"
+  },
+  "keywords": [],
+  "author": "David Dinh",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
